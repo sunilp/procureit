@@ -1,0 +1,25 @@
+{
+  "generator-jhipster": {
+    "baseName": "eprx",
+    "packageName": "com.eprx.wapp",
+    "packageFolder": "com/eprx/wapp",
+    "authenticationType": "oauth2",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "gulp",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "aa0aab8b0926443ebcef7baeeee3fd499d8381d6",
+    "testFrameworks": [
+      "cucumber",
+      "protractor"
+    ]
+  }
+}
