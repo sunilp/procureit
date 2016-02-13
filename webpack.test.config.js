@@ -93,7 +93,7 @@ module.exports = {
       'Reflect': 'es7-reflect-metadata/src/global/browser'
     })
   ],
-    // we need this due to problems with es6-shim
+  // we need this due to problems with es6-shim
   node: {
     global: 'window',
     progress: false,

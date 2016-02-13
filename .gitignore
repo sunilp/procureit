@@ -58,5 +58,8 @@ Thumbs.db
 # IDE #
 .idea/
 *.swp
-target
-node_modules
+/target
+/node
+/etc
+/target
+/typings
